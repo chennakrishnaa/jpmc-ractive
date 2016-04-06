@@ -1,0 +1,6 @@
+{
+  "generator-ractive": {
+    "loadMethod": "AMD",
+    "testFramework": "mocha"
+  }
+}

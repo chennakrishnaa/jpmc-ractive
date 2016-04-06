@@ -1,0 +1,35 @@
+<div class="row">
+  <div class="col-md-7 col-xs-12">
+  <p class="pull-left">{{question1}}</p>
+  
+<div class="dropup pull-right ">
+
+  <button class="btn btn-default btn-dropdown dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+    ------------------
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+      {{#Options1}}
+      <li><a href="#">{{option}}</a></li>
+      {{/Options1}}
+    
+  </ul>
+</div>
+</div>
+<div class="col-md-5 col-xs-12">
+  <p class="pull-left">{{question2}}</p>
+  
+<div class="dropup pull-right">
+  <button class="btn btn-default btn-dropdown dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+    ------------------
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+      {{#Options2}}
+      <li><a href="#">{{option}}</a></li>
+      {{/Options2}}
+    
+  </ul>
+</div>
+</div>
+</div>

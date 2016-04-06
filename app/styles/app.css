@@ -1,0 +1,90 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+#bg {
+  position: fixed; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+}
+#bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+  filter:blur(5px);
+}
+
+body {
+  align-items: center;
+  /*background: #fafafa;*/
+  color: #333;
+  display: flex;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  justify-content: center;
+}
+
+.browsehappy {
+  background: #ccc;
+  color: #000;
+  margin: 0.2em 0;
+  padding: 0.2em 0;
+}
+
+.welcome {
+  background: #eee;
+  padding: 40px 60px;
+  text-align: center;
+}
+
+.diamond-container {
+  margin: 40px 0;
+}
+
+.diamond {
+  fill: #333333;
+  margin: 100px 0;
+}
+
+.credit {
+  font-size: 14px;
+  font-family: serif;
+  letter-spacing: 2px;
+  font-style: italic;
+}
+
+.credit span {
+  display: block;
+}
+
+.question {
+    padding:10px;
+}
+.jumbotron {
+   background-color:rgba(189, 55, 117, 0.82);
+   padding-left:30px;
+   padding-right:30px; 
+}
+.btn-dropdown {
+  min-width:50px;  
+}
+@media screen and (min-width:768px) {
+  .container .jumbotron {
+    padding-left:30px;
+    padding-right:30px;
+}
+}
+
