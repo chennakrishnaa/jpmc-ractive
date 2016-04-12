@@ -1,11 +1,11 @@
 define([
-    'ractive', 'jquery', 'TweenLite', 'CSSPlugin'
-  ], function (ractive, $, TweenLite, CSSPlugin) {
+    'ractive', 'jquery'
+  ], function (ractive, $) {
     'use strict';
     return {
         init: function () {
-            console.log($('.diamond-container'));
-            TweenLite.to($('.diamond-container'), 1, { opacity: 0, x: 50 });
+           
+            console.log("initiated");
           }
       };
   });

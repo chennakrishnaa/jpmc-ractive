@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="11px" viewBox="0 0 16 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>FABEC6DF-E66D-4145-8A0D-98347D40A7A4</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Starting" transform="translate(-6.000000, -38.000000)" fill="#FFFFFF">
+            <g id="Navigation-Bar/Back">
+                <g id="Cell-Elements/Cell-Gripper" transform="translate(0.000000, 20.000000)">
+                    <path d="M6,18 L22,18 L22,19.5 L6,19.5 L6,18 Z M6,22.5 L22,22.5 L22,24 L6,24 L6,22.5 Z M6,27 L22,27 L22,28.5 L6,28.5 L6,27 Z" id="Hamberger"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

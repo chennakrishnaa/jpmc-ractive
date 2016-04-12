@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="22px" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>A4937E52-8316-405B-8A45-8751A89DD152</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TellUsAbout" transform="translate(-37.000000, -93.000000)">
+            <g id="StepWizard-header" transform="translate(38.000000, 94.000000)">
+                <g id="SelectedWizard">
+                    <path d="M8,20 C8,20 16,12.418278 16,8 C16,3.581722 12.418278,0 8,0 C3.581722,0 0,3.581722 0,8 C0,12.418278 8,20 8,20 Z" id="Oval-5" stroke="#107ACA"></path>
+                    <circle id="Oval-10" fill="#107ACA" cx="8" cy="8" r="5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
